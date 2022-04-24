@@ -1,5 +1,4 @@
 ## 이한솔 (Hansol Lee)
-##### eehs2000@gmail.com
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
