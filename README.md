@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=&fontSize=90)
-
 ## 이한솔 (Hansol Lee)
 ##### eehs2000@gmail.com
 ### Frontend
