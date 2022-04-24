@@ -3,7 +3,7 @@
 ### Frontend
 Skills:  REACT / JS / HTML / CSS
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
 **eehs2000/eehs2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
