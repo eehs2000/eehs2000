@@ -1,4 +1,5 @@
 ## 이한솔 (Hansol Lee)
+eehs2000@gmail.com
 ---
 ### Frontend
 Skills:  REACT / JS / HTML / CSS
