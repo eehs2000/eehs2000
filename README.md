@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=이한솔(Hansol Lee)%20FE&fontSize=90)
+
 ## 이한솔 (Hansol Lee)
 ##### eehs2000@gmail.com
 ### Frontend
