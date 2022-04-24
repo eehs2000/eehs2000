@@ -1,4 +1,5 @@
-### Hi there 👋
+## 이한솔 (Hansol Lee)
+---
 
 <!--
 **eehs2000/eehs2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
