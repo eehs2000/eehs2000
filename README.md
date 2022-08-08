@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a> &nbsp</p>
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eehs2000)](https://github.com/eehs2000/github-readme-stats)</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eehs2000)](https://github.com/eehs2000/github-readme-stats)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
