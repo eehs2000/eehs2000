@@ -21,6 +21,7 @@
   </a>
 </p>
 
+<a href="https://earthy-truck-61e.notion.site/Hansol-Lee-b0bd973854e94631b9a042cf0bb89db9">My Resume</a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
