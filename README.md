@@ -13,7 +13,12 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> &nbsp</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eehs2000)](https://github.com/eehs2000/github-readme-stats)
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/eehs2000">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eehs2000&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=" />
+  </a>
+</p>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
