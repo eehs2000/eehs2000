@@ -21,9 +21,8 @@
   </a>
 </p>
 
-<p align="center">
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-  </p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&align=center)
+
 
 <!--
 **eehs2000/eehs2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
