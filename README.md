@@ -6,4 +6,3 @@ My journey spans from working on cryptocurrency exchanges, NFT marketplaces, and
 📫 Let’s Connect
 	•	Email: eehs2000@gmail.com
 	•	LinkedIn: linkedin.com/in/hansol-l-40657823b
-	•	GitHub: github.com/hansoll
